@@ -2,15 +2,13 @@
 
 # 🐍 ooovenenoso
 
-### Builder of practical systems: automation · security research · bots · game/community tools · web apps · AI infrastructure
+### Original builds: automation · security research · bots · game/community tools · civic ops · web systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&center=true&vCenter=true&width=980&lines=Automation+first.+Security+aware.+Built+for+the+real+world.;Bots%2C+payloads%2C+dashboards%2C+APIs%2C+game+tools%2C+AI+systems.;Maybe+ooovenenoso.+Maybe+the+digital+piranhas." alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&center=true&vCenter=true&width=980&lines=Original+repos.+Practical+tools.+Real-world+automation.;Bots%2C+payloads%2C+dashboards%2C+reports%2C+game+tools%2C+ops+scripts.;Maybe+ooovenenoso.+Maybe+the+digital+piranhas." alt="typing intro" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=ooovenenoso&label=profile%20views&color=red&style=for-the-badge)](https://github.com/ooovenenoso)
-[![Repos](https://img.shields.io/badge/public_repos-63-black?style=for-the-badge&logo=github)](https://github.com/ooovenenoso?tab=repositories)
+[![Original repos](https://img.shields.io/badge/original_public_repos-29-black?style=for-the-badge&logo=github)](https://github.com/ooovenenoso?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/ooovenenoso?style=for-the-badge&logo=github&label=followers&color=blue)](https://github.com/ooovenenoso?tab=followers)
-[![Stars](https://img.shields.io/badge/public_stars-394-yellow?style=for-the-badge&logo=github)](https://github.com/ooovenenoso?tab=repositories)
-[![Forks](https://img.shields.io/badge/public_forks-38-purple?style=for-the-badge&logo=github)](https://github.com/ooovenenoso?tab=repositories)
 [![Puerto Rico](https://img.shields.io/badge/base-Puerto_Rico-0b57d0?style=for-the-badge)](https://github.com/ooovenenoso)
 
 </div>
@@ -30,62 +28,57 @@
 
 </div>
 
-### Current public snapshot
+### Verified snapshot
 
-- **63 public repositories** across automation, security research, Discord bots, game tooling, SaaS/web systems, Google Apps Script utilities, IoT/API experiments, MCP, and AI infrastructure.
-- **394+ public stars** and **38+ forks** across the visible arsenal.
-- Most visible public languages: **Python, JavaScript, TypeScript, PowerShell, HTML, GDScript**.
-- Recent movement includes upstream PRs to `llama.cpp`, `diffusers`, and `hermes-agent`, plus active maintenance of BadUSB/MCP tooling.
+- **29 original public repos** currently visible under `ooovenenoso`.
+- **Forks are not counted as original builds** in the map below.
+- Core public languages across original repos: **Python, JavaScript, TypeScript, HTML** plus DuckyScript / PowerShell-style payload work.
+- Main pattern: small practical tools, bots, automation scripts, game/community utilities, civic/business reporting, and security research payloads.
 
 > No sabemos si es `ooovenenoso`... o sus **pirañas digitales** moviéndose debajo del agua.
 
 ---
 
-## 🗺️ Repo landscape
+## 🗺️ Original repo landscape
 
-This profile is not just AI. The repo map is closer to a **field kit for automation-heavy builders**:
+This map focuses on repositories that are **not GitHub forks**.
 
 ### 🔐 Security research / payload engineering
-- `BadUSB-GPT` — GPT-assisted Rubber Ducky / BadUSB research workflows.
-- `CHOCO-DUCKY-Software-Installation-with-Chocolatey` — Windows software installation via DuckyScript + Chocolatey.
-- `Flipper-Zero-BadUSB`, `Flipper`, `usbrubberducky-payloads` — Flipper Zero and USB payload experiments.
-- `CounterCrowdStrike` — Windows recovery automation concept.
-- `mitmproxy`, `rce.js`, `Warfare-X-RCE` — security/dev tooling and community platform experiments.
+- [`BadUSB-GPT`](https://github.com/ooovenenoso/BadUSB-GPT) — GPT-assisted Rubber Ducky / BadUSB research workflows.
+- [`windows-mcp-ducky-installer`](https://github.com/ooovenenoso/windows-mcp-ducky-installer) — authorized Windows-MCP installer payload with Discord status reporting.
+- [`CHOCO-DUCKY-Software-Installation-with-Chocolatey`](https://github.com/ooovenenoso/CHOCO-DUCKY-Software-Installation-with-Chocolatey) — Windows software installation with DuckyScript + Chocolatey.
+- [`CounterCrowdStrike`](https://github.com/ooovenenoso/CounterCrowdStrike) — Windows recovery automation concept.
+- [`QuackControl`](https://github.com/ooovenenoso/QuackControl) — voice-to-DuckyScript automation.
 
 ### 🤖 Bots / Discord / messaging automation
-- `FaceSearchBot` — Discord face/image search automation.
-- `Dall-E-3-Discord-Bot` — image generation bot.
-- `DisQRd-QR-Code-and-Barcode-Generator-for-Discord` — QR/barcode bot.
-- `Mailer-Automation-ADB`, `ShellMS`, `SMS-INSTINCT-OPENAI` — SMS / ADB / marketing automation.
-- `ChatGPTFacebookPage` — Facebook page chatbot with context.
+- [`FaceSearchBot`](https://github.com/ooovenenoso/FaceSearchBot) — Discord face/image search automation.
+- [`Dall-E-3-Discord-Bot`](https://github.com/ooovenenoso/Dall-E-3-Discord-Bot) — Discord bot for AI-powered image generation.
+- [`DisQRd-QR-Code-and-Barcode-Generator-for-Discord`](https://github.com/ooovenenoso/DisQRd-QR-Code-and-Barcode-Generator-for-Discord) — QR/barcode generation bot.
+- [`Mailer-Automation-ADB`](https://github.com/ooovenenoso/Mailer-Automation-ADB) — Discord + spreadsheet + ADB/ShellMS SMS automation.
+- [`SMS-INSTINCT-OPENAI`](https://github.com/ooovenenoso/SMS-INSTINCT-OPENAI) — Spanish marketing text enhancement bot.
 
-### 🎮 Game communities / Rust Console / Portal tools
-- `Bunkerfy.top-qv` — marketplace / escrow concept for Arc Raiders items.
-- `Warfare-X-RCE` — Rust Console community platform with credits, kits, analytics.
-- `Rust-Console-Edition-Commands-and-Functions-JSON` — command/config library for server tooling.
-- `CNQR-VENDING-MACHINE-FOR-RCE` — Rust Console economy/vending platform concept.
-- `Battlefield-Portal-MCP`, `PortalSDK`, `Battlefield-6-Portal-MCF-GODOT` — Battlefield Portal + Godot/MCP experiments.
+### 🎮 Game communities / server tools
+- [`Bunkerfy.top-qv`](https://github.com/ooovenenoso/Bunkerfy.top-qv) — marketplace / escrow concept for Arc Raiders items.
+- [`Warfare-X-RCE`](https://github.com/ooovenenoso/Warfare-X-RCE) — Rust Console community platform with credits, kits, analytics.
+- [`Rust-Console-Edition-Commands-and-Functions-JSON`](https://github.com/ooovenenoso/Rust-Console-Edition-Commands-and-Functions-JSON) — command/config library for Rust Console server workflows.
+- [`Rust-Console-Edition-Command-Library-Extension`](https://github.com/ooovenenoso/Rust-Console-Edition-Command-Library-Extension) — helper extension for Rust Console commands.
+- [`CNQR-VENDING-MACHINE-FOR-RCE`](https://github.com/ooovenenoso/CNQR-VENDING-MACHINE-FOR-RCE) — Rust Console economy/vending platform concept.
+- [`Battlefield-Portal-MCP`](https://github.com/ooovenenoso/Battlefield-Portal-MCP) — Battlefield Portal SDK + Godot/MCP workflow experiment.
 
 ### 🧾 Business / civic / ops automation
-- `Employee-Document-Report-Generator` — document status reports with Google Apps Script.
-- `Resolvia` — ticketing, numbering, email notifications, daily reports.
-- `Tiny-Timely` — reminder automation for medical/dental evaluation workflows.
-- `TinoAire` — air quality reports with IQAir API + email scheduling.
-- `Caguas_2024` — Caguas Energy Hackathon material.
-- `athmovil-javascript-api` — ATH Móvil payment button technical docs.
+- [`Employee-Document-Report-Generator`](https://github.com/ooovenenoso/Employee-Document-Report-Generator) — Google Apps Script document status reports.
+- [`Resolvia`](https://github.com/ooovenenoso/Resolvia) — ticketing, numbering, email notifications, daily reports.
+- [`Tiny-Timely`](https://github.com/ooovenenoso/Tiny-Timely) — reminder automation for medical/dental evaluation workflows.
+- [`TinoAire`](https://github.com/ooovenenoso/TinoAire) — IQAir API reporting with email scheduling.
+- [`Supabase-Keepalive-Script`](https://github.com/ooovenenoso/Supabase-Keepalive-Script) — operational keepalive for Supabase projects.
+- [`MindFlare-GPT-Personality-Test`](https://github.com/ooovenenoso/MindFlare-GPT-Personality-Test) — interactive personality profile generator.
 
-### 🌐 Web apps / SaaS / dashboards
-- `saasfly`, `saas-starter` — SaaS templates and Next.js starter systems.
-- `panel` — game server panel ecosystem.
-- `NitrAPI` — Nitrado REST API work.
-- `google-ads-mcp-server` — Google Ads performance analysis tooling.
-- `Supabase-Keepalive-Script` — operational keepalive for Supabase projects.
-
-### 🧠 AI / LLM / MCP infrastructure
-- `llama.cpp`, `diffusers`, `hermes-agent` — upstream AI infrastructure contributions.
-- `windows-mcp-ducky-installer`, `servers`, `awesome-mcp-servers`, `best-of-mcp-servers`, `schemaflow-mcp-server`, `godot-mcp` — MCP ecosystem work.
-- `SmartSnip`, `SnippingToolGPT`, `pothole-computer-vision-project`, `openai-mqtt-nodejs` — applied AI / vision / IoT experiments.
-- `Top-AI-Tools`, `system_prompts_leaks`, `Jupyter-Notebook-ChatGPT-Prompt-Engineering-for-Developers` — AI research and reference collections.
+### 🌐 Web / product / applied AI tools
+- [`SnippingToolGPT`](https://github.com/ooovenenoso/SnippingToolGPT) — Chrome extension for real-time screenshot analysis.
+- [`VenomLog-Resources`](https://github.com/ooovenenoso/VenomLog-Resources) — support resources for VenomLog workflows.
+- [`Battlefield-6-Portal-MCF-GODOT`](https://github.com/ooovenenoso/Battlefield-6-Portal-MCF-GODOT) — Battlefield Portal / Godot-side experiment.
+- [`Boosty-Resources`](https://github.com/ooovenenoso/Boosty-Resources) — resource collection.
+- [`Jupyter-Notebook-ChatGPT-Prompt-Engineering-for-Developers`](https://github.com/ooovenenoso/Jupyter-Notebook-ChatGPT-Prompt-Engineering-for-Developers) — notebook/course material around prompt engineering.
 
 ---
 
@@ -94,10 +87,10 @@ This profile is not just AI. The repo map is closer to a **field kit for automat
 <div align="center">
 
 ### Languages / runtime
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,powershell,bash,html,css,cpp,cs,php,go,git,github&theme=dark" alt="languages and runtimes" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,powershell,bash,html,css,git,github&theme=dark" alt="languages and runtimes" />
 
 ### Web / data / backend
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,postgres,sqlite,firebase,vercel,docker,cloudflare&theme=dark" alt="web backend stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,postgres,sqlite,vercel,docker&theme=dark" alt="web backend stack" />
 
 ### Automation / ops / platforms
 <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -109,32 +102,41 @@ This profile is not just AI. The repo map is closer to a **field kit for automat
 ### Security / hardware-adjacent research
 <img src="https://img.shields.io/badge/Rubber_Ducky-DuckyScript-yellow?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BadUSB-Authorized_Research-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flipper_Zero-Payloads-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PowerShell-Windows_Ops-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
-### AI / agents / MCP
-<img src="https://img.shields.io/badge/LLM-llama.cpp-black?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-Diffusers-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6f42c1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hermes-Agent-red?style=for-the-badge" />
+### AI when useful
 <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-Tool_Context-6f42c1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Vision-Screenshot_Analysis-ff006e?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🔥 Featured arsenal pulses
+## 🔥 Original project pulses
 
 | Project | Live pulse | Field |
 |---|---:|---|
-| [`BadUSB-GPT`](https://github.com/ooovenenoso/BadUSB-GPT) | ![stars](https://img.shields.io/github/stars/ooovenenoso/BadUSB-GPT?style=flat-square) ![forks](https://img.shields.io/github/forks/ooovenenoso/BadUSB-GPT?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/BadUSB-GPT?style=flat-square) | BadUSB / DuckyScript / AI-assisted payload research |
+| [`BadUSB-GPT`](https://github.com/ooovenenoso/BadUSB-GPT) | ![stars](https://img.shields.io/github/stars/ooovenenoso/BadUSB-GPT?style=flat-square) ![forks](https://img.shields.io/github/forks/ooovenenoso/BadUSB-GPT?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/BadUSB-GPT?style=flat-square) | BadUSB / DuckyScript research |
 | [`CHOCO-DUCKY-Software-Installation-with-Chocolatey`](https://github.com/ooovenenoso/CHOCO-DUCKY-Software-Installation-with-Chocolatey) | ![stars](https://img.shields.io/github/stars/ooovenenoso/CHOCO-DUCKY-Software-Installation-with-Chocolatey?style=flat-square) ![forks](https://img.shields.io/github/forks/ooovenenoso/CHOCO-DUCKY-Software-Installation-with-Chocolatey?style=flat-square) | Windows software automation |
 | [`FaceSearchBot`](https://github.com/ooovenenoso/FaceSearchBot) | ![stars](https://img.shields.io/github/stars/ooovenenoso/FaceSearchBot?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/FaceSearchBot?style=flat-square) | Discord / image search automation |
 | [`Dall-E-3-Discord-Bot`](https://github.com/ooovenenoso/Dall-E-3-Discord-Bot) | ![stars](https://img.shields.io/github/stars/ooovenenoso/Dall-E-3-Discord-Bot?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/Dall-E-3-Discord-Bot?style=flat-square) | Discord / image generation |
 | [`Bunkerfy.top-qv`](https://github.com/ooovenenoso/Bunkerfy.top-qv) | ![stars](https://img.shields.io/github/stars/ooovenenoso/Bunkerfy.top-qv?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/Bunkerfy.top-qv?style=flat-square) | Marketplace / escrow / web app |
-| [`Rust-Console-Edition-Commands-and-Functions-JSON`](https://github.com/ooovenenoso/Rust-Console-Edition-Commands-and-Functions-JSON) | ![stars](https://img.shields.io/github/stars/ooovenenoso/Rust-Console-Edition-Commands-and-Functions-JSON?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/Rust-Console-Edition-Commands-and-Functions-JSON?style=flat-square) | Game server configuration / AI training data |
+| [`Rust-Console-Edition-Commands-and-Functions-JSON`](https://github.com/ooovenenoso/Rust-Console-Edition-Commands-and-Functions-JSON) | ![stars](https://img.shields.io/github/stars/ooovenenoso/Rust-Console-Edition-Commands-and-Functions-JSON?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/Rust-Console-Edition-Commands-and-Functions-JSON?style=flat-square) | Game server configuration |
 | [`TinoAire`](https://github.com/ooovenenoso/TinoAire) | ![stars](https://img.shields.io/github/stars/ooovenenoso/TinoAire?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/TinoAire?style=flat-square) | Civic data / air quality reporting |
-| [`llama.cpp`](https://github.com/ooovenenoso/llama.cpp) | ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/llama.cpp?style=flat-square) | LLM infrastructure contribution |
+| [`SnippingToolGPT`](https://github.com/ooovenenoso/SnippingToolGPT) | ![stars](https://img.shields.io/github/stars/ooovenenoso/SnippingToolGPT?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ooovenenoso/SnippingToolGPT?style=flat-square) | Screenshot analysis extension |
+
+---
+
+## 🌉 Forks / upstream work note
+
+Some public repos under this account are **forks** used for study, experiments, or upstream contribution work. They are separate from the original-build map above.
+
+Recent upstream contribution targets include:
+
+- `ggml-org/llama.cpp`
+- `huggingface/diffusers`
+- `NousResearch/hermes-agent`
 
 ---
 
@@ -142,18 +144,18 @@ This profile is not just AI. The repo map is closer to a **field kit for automat
 
 ```mermaid
 flowchart LR
-    A[observe real-world friction] --> B[script it]
-    B --> C[wrap it in a bot / app / payload / API]
-    C --> D[add docs + validators + CI]
-    D --> E[ship repo]
-    E --> F[watch the pulse]
+    A[real-world friction] --> B[script]
+    B --> C[bot / app / payload / report]
+    C --> D[docs + validators]
+    D --> E[ship original repo]
+    E --> F[watch pulse]
     F --> A
 ```
 
 ```text
 base:     Puerto Rico
 mode:     automate the boring, sharpen the useful, document the dangerous
-fields:   security research · bots · games · web apps · civic ops · AI/MCP
+fields:   security research · bots · games · web apps · civic ops · AI when useful
 signal:   practical tools over theory
 ```
 
@@ -174,7 +176,7 @@ signal:   practical tools over theory
 
 ## 🐍 Signature
 
-> If a repo wakes up with validators, CI, docs, payload hygiene, bots, dashboards, scripts, and one suspiciously clean commit trail...
+> If a repo wakes up with validators, docs, payload hygiene, bots, dashboards, scripts, and one suspiciously clean commit trail...
 >
 > Maybe it was `ooovenenoso`.
 >
@@ -184,6 +186,6 @@ signal:   practical tools over theory
 
 <div align="center">
 
-**Automation-first · security-aware · game/community builder · web systems · AI when useful**
+**Original automation · security-aware builds · game/community tooling · civic ops · AI when useful**
 
 </div>
