@@ -1,0 +1,105 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ooovenenoso live context pipeline</title>
+  <desc id="desc">Dark GitHub profile hero showing repos, bots, docs and payloads flowing into digital piranhas, then to a production agent with fresh context.</desc>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22ff99" stop-opacity="0.65"/>
+      <stop offset="0.45" stop-color="#22ff99" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0b0f14" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#101721"/>
+      <stop offset="1" stop-color="#05070b"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace}
+      .sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+      .tiny{font-size:16px;letter-spacing:.18em;text-transform:uppercase}
+      .label{font-size:22px;font-weight:700}
+      .small{font-size:15px;fill:#8da2b8}
+      .card{fill:url(#card);stroke:#1dff99;stroke-opacity:.38;stroke-width:1.5}
+      .dash{stroke:#39ff9d;stroke-width:2.5;stroke-dasharray:6 10;stroke-linecap:round;opacity:.72}
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="#060910"/>
+  <rect x="1" y="1" width="1198" height="418" rx="27" stroke="#1dff99" stroke-opacity="0.14"/>
+  <circle cx="600" cy="214" r="190" fill="url(#glow)"/>
+
+  <text x="80" y="64" class="mono tiny" fill="#8da2b8">corpus · live</text>
+  <text x="477" y="64" class="mono tiny" fill="#22ff99">incremental · sync</text>
+  <text x="906" y="64" class="mono tiny" fill="#8da2b8">agent · fresh</text>
+
+  <g transform="translate(70 96)">
+    <rect class="card" width="315" height="54" rx="10"/>
+    <text x="24" y="34" class="mono label" fill="#e7f0f7">&lt;/&gt; repos</text>
+    <text x="210" y="34" class="mono small">30 original</text>
+    <circle cx="292" cy="27" r="5" fill="#39ff9d" filter="url(#softGlow)"/>
+  </g>
+  <g transform="translate(70 164)">
+    <rect class="card" width="315" height="54" rx="10" stroke="#8b5cf6"/>
+    <text x="24" y="34" class="mono label" fill="#e7f0f7"># bots</text>
+    <text x="210" y="34" class="mono small">discord · ops</text>
+    <circle cx="292" cy="27" r="5" fill="#8b5cf6" filter="url(#softGlow)"/>
+  </g>
+  <g transform="translate(70 232)">
+    <rect class="card" width="315" height="54" rx="10" stroke="#ff3b6b"/>
+    <text x="24" y="34" class="mono label" fill="#e7f0f7">⚡ payloads</text>
+    <text x="210" y="34" class="mono small">authorized</text>
+    <circle cx="292" cy="27" r="5" fill="#ff3b6b" filter="url(#softGlow)"/>
+  </g>
+  <g transform="translate(70 300)">
+    <rect class="card" width="315" height="54" rx="10" stroke="#f59e0b"/>
+    <text x="24" y="34" class="mono label" fill="#e7f0f7">▣ docs</text>
+    <text x="210" y="34" class="mono small">validators · ci</text>
+    <circle cx="292" cy="27" r="5" fill="#f59e0b" filter="url(#softGlow)"/>
+  </g>
+
+  <path class="dash" d="M392 123 C450 123 482 162 520 184"/>
+  <path class="dash" d="M392 191 C450 191 482 193 520 204"/>
+  <path class="dash" d="M392 259 C455 250 486 236 520 222"/>
+  <path class="dash" d="M392 327 C455 306 492 260 525 234"/>
+
+  <g transform="translate(505 117)">
+    <circle cx="95" cy="95" r="74" fill="#151b25" stroke="#39ff9d" stroke-opacity=".55" stroke-width="2"/>
+    <circle cx="95" cy="95" r="94" stroke="#39ff9d" stroke-opacity=".18" stroke-width="2"/>
+    <text x="95" y="88" text-anchor="middle" font-size="62">🐍</text>
+    <text x="95" y="128" text-anchor="middle" class="sans label" fill="#e7f0f7">ooovenenoso</text>
+    <text x="95" y="151" text-anchor="middle" class="mono small" fill="#39ff9d">only the useful survives</text>
+  </g>
+
+  <path class="dash" d="M698 212 C758 212 784 212 827 212"/>
+  <polygon points="827,212 808,201 808,223" fill="#39ff9d" opacity=".9"/>
+
+  <g transform="translate(825 116)">
+    <rect x="0" y="0" width="116" height="116" rx="18" fill="#111827" stroke="#f59e0b" stroke-opacity=".65"/>
+    <rect x="34" y="34" width="48" height="38" rx="10" fill="#0b1020" stroke="#f59e0b" stroke-width="3"/>
+    <circle cx="48" cy="54" r="4" fill="#39ff9d"/>
+    <circle cx="68" cy="54" r="4" fill="#39ff9d"/>
+    <path d="M54 72 C60 78 70 78 76 72" stroke="#e7f0f7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M58 31 L58 16" stroke="#ff3b6b" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="58" cy="13" r="5" fill="#ff3b6b"/>
+    <text x="58" y="144" text-anchor="middle" class="sans label" fill="#e7f0f7">production agent</text>
+    <text x="58" y="168" text-anchor="middle" class="mono small" fill="#8da2b8">always on context</text>
+  </g>
+
+  <g transform="translate(960 111)">
+    <rect class="card" width="170" height="172" rx="14"/>
+    <text x="18" y="32" class="mono tiny" fill="#39ff9d">context · fresh</text>
+    <g transform="translate(18 54)">
+      <circle r="5" fill="#39ff9d"/><rect x="16" y="-5" width="112" height="10" rx="5" fill="#d6e4d9" opacity=".9"/><text x="138" y="5" class="mono small" fill="#39ff9d">now</text>
+    </g>
+    <g transform="translate(18 82)">
+      <circle r="5" fill="#8b5cf6"/><rect x="16" y="-5" width="86" height="10" rx="5" fill="#d6e4d9" opacity=".82"/><text x="138" y="5" class="mono small">2m</text>
+    </g>
+    <g transform="translate(18 110)">
+      <circle r="5" fill="#ff3b6b"/><rect x="16" y="-5" width="126" height="10" rx="5" fill="#d6e4d9" opacity=".75"/><text x="138" y="5" class="mono small">5m</text>
+    </g>
+    <text x="18" y="151" class="mono small" fill="#e7f0f7">decision aligned</text>
+  </g>
+
+  <text x="600" y="394" text-anchor="middle" class="mono tiny" fill="#39ff9d">original builds · live pulse · validators · digital piranhas</text>
+</svg>
