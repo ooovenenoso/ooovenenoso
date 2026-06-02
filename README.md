@@ -9,8 +9,8 @@
 [![Original builds](https://img.shields.io/badge/original-builds-22ff99?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ooovenenoso?tab=repositories)
 [![Puerto Rico](https://img.shields.io/badge/base-Puerto_Rico-0b57d0?style=for-the-badge)](https://github.com/ooovenenoso)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ooovenenoso&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ooovenenoso&theme=radical&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ooovenenoso&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=ooovenenoso&theme=radical&hide_border=true" alt="GitHub streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ooovenenoso&theme=redical&hide_border=true&area=true&custom_title=Live%20Build%20Pulse" alt="contribution graph" />
 
@@ -22,12 +22,12 @@
 
 <div align="center">
 
-<a href="https://github.com/ooovenenoso/BadUSB-GPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ooovenenoso&repo=BadUSB-GPT&theme=radical&hide_border=true" alt="BadUSB-GPT" /></a>
-<a href="https://github.com/ooovenenoso/SnippingToolGPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ooovenenoso&repo=SnippingToolGPT&theme=radical&hide_border=true" alt="SnippingToolGPT" /></a>
-<a href="https://github.com/ooovenenoso/windows-mcp-ducky-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ooovenenoso&repo=windows-mcp-ducky-installer&theme=radical&hide_border=true" alt="windows-mcp-ducky-installer" /></a>
-<a href="https://github.com/ooovenenoso/FaceSearchBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ooovenenoso&repo=FaceSearchBot&theme=radical&hide_border=true" alt="FaceSearchBot" /></a>
-<a href="https://github.com/ooovenenoso/Warfare-X-RCE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ooovenenoso&repo=Warfare-X-RCE&theme=radical&hide_border=true" alt="Warfare-X-RCE" /></a>
-<a href="https://github.com/ooovenenoso/Bunkerfy.top-qv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ooovenenoso&repo=Bunkerfy.top-qv&theme=radical&hide_border=true" alt="Bunkerfy.top-qv" /></a>
+<a href="https://github.com/ooovenenoso/BadUSB-GPT"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ooovenenoso&repo=BadUSB-GPT&theme=radical&hide_border=true" alt="BadUSB-GPT" /></a>
+<a href="https://github.com/ooovenenoso/SnippingToolGPT"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ooovenenoso&repo=SnippingToolGPT&theme=radical&hide_border=true" alt="SnippingToolGPT" /></a>
+<a href="https://github.com/ooovenenoso/windows-mcp-ducky-installer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ooovenenoso&repo=windows-mcp-ducky-installer&theme=radical&hide_border=true" alt="windows-mcp-ducky-installer" /></a>
+<a href="https://github.com/ooovenenoso/FaceSearchBot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ooovenenoso&repo=FaceSearchBot&theme=radical&hide_border=true" alt="FaceSearchBot" /></a>
+<a href="https://github.com/ooovenenoso/Warfare-X-RCE"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ooovenenoso&repo=Warfare-X-RCE&theme=radical&hide_border=true" alt="Warfare-X-RCE" /></a>
+<a href="https://github.com/ooovenenoso/Bunkerfy.top-qv"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ooovenenoso&repo=Bunkerfy.top-qv&theme=radical&hide_border=true" alt="Bunkerfy.top-qv" /></a>
 
 </div>
 
@@ -81,12 +81,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooovenenoso&theme=radical" alt="profile details" />
+<img width="100%" src="assets/profile-summary.svg" alt="profile summary" />
 <br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ooovenenoso&theme=radical" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ooovenenoso&theme=radical" alt="most commit language" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ooovenenoso&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
 <br />
-<img src="https://github-profile-trophy.vercel.app/?username=ooovenenoso&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
+<img width="100%" src="assets/contribution-dna.svg" alt="contribution dna summary" />
 
 </div>
 
